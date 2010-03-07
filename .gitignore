@@ -2,6 +2,5 @@
 .eprj
 config.php
 manifest/*
-extensions/*
 symphony/*
 .htaccess
