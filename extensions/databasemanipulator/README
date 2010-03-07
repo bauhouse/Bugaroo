@@ -1,0 +1,10 @@
+DatabaseManipulator class
+------------------------------------
+
+[INSTALLATION]
+
+** Note: The newest version is available at http://github.com/yourheropaul/databasemanipulator/tree/master
+** Note also: EventEx has a dependency -  ASDC (http://github.com/pointybeard/asdc). 
+
+1. Place the 'DatabaseManipulator' directory in the Symphony 'extensions' directory.
+2. Enable the extension in the 'System/Extensions' menu of the Symphony back-end.
