@@ -210,6 +210,8 @@
 		$conf['region']['time_format'] = 'H:i';
 		$conf['region']['date_format'] = 'd F Y';
 		$conf['maintenance_mode']['enabled'] = 'no';
+		$conf['globalresourceloader']['ds-names'] = 'index_assignee,index_category,index_issues,index_milestone,index_priority,index_projects,index_status';
+		$conf['globalresourceloader']['ds-pages'] = '75,76';
 	
 		return $conf;
 	
